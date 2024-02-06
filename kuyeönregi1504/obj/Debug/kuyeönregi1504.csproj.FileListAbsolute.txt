@@ -1,0 +1,10 @@
+C:\Users\PC0\source\repos\kuyeönregi1504\kuyeönregi1504\bin\Debug\kuyeönregi1504.exe.config
+C:\Users\PC0\source\repos\kuyeönregi1504\kuyeönregi1504\bin\Debug\kuyeönregi1504.exe
+C:\Users\PC0\source\repos\kuyeönregi1504\kuyeönregi1504\bin\Debug\kuyeönregi1504.pdb
+C:\Users\PC0\source\repos\kuyeönregi1504\kuyeönregi1504\obj\Debug\kuyeönregi1504.csproj.AssemblyReference.cache
+C:\Users\PC0\source\repos\kuyeönregi1504\kuyeönregi1504\obj\Debug\kuyeönregi1504.Form1.resources
+C:\Users\PC0\source\repos\kuyeönregi1504\kuyeönregi1504\obj\Debug\kuyeönregi1504.Properties.Resources.resources
+C:\Users\PC0\source\repos\kuyeönregi1504\kuyeönregi1504\obj\Debug\kuyeönregi1504.csproj.GenerateResource.cache
+C:\Users\PC0\source\repos\kuyeönregi1504\kuyeönregi1504\obj\Debug\kuyeönregi1504.csproj.CoreCompileInputs.cache
+C:\Users\PC0\source\repos\kuyeönregi1504\kuyeönregi1504\obj\Debug\kuyeönregi1504.exe
+C:\Users\PC0\source\repos\kuyeönregi1504\kuyeönregi1504\obj\Debug\kuyeönregi1504.pdb
